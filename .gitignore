@@ -1,0 +1,24 @@
+
+# Ignore parquetFile folder and its contents
+model_export_parquetFile/
+
+# Ignore individual Parquet files (outside folders)
+*.parquet
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore virtual environment
+venv/
+.env/
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore operating system files
+.DS_Store
+Thumbs.db
+
+# Ignore log files
+*.log
