@@ -157,13 +157,17 @@ Final Score = (Anomaly × 0.25 + Risk × 0.30 + Stability × 0.20 + Activity × 
 
 ```
 AaveScore/
-├── .gitignore
-├── model.ipynb
-├── visualizations.ipynb
-├── analysis.md
-├── readme.md
-├── parquetFile/
-└── *.png
+├── .gitignore 
+├── analysis.md 
+├── README.md 
+├── requirements.txt 
+├── images/ 
+│ └── *.png
+├── notebook/ 
+│ ├── MODEL.ipynb
+│ ├── EDA.ipynb
+│ └── VISUALISATIONS.ipynb
+└── .venv/ 
 ```
 
 ## Dependencies
