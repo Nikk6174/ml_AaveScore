@@ -145,8 +145,8 @@ Final Score = (Anomaly × 0.25 + Risk × 0.30 + Stability × 0.20 + Activity × 
 4. **Score Interpretation and Export:**
 
    ```bash
-   parquetFile/credit_scores.parquet
-   parquetFile/wallet_features.parquet
+   model_export_parquetFile/credit__scores_1.parquet
+   model_export_parquetFile/wallet_features_1.parquet
    ```
 5. **Analysis and Visualization:**
 

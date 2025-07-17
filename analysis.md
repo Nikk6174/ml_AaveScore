@@ -104,3 +104,4 @@ The final score is a weighted sum of these components, scaled to 0–1000, with 
 └── .gitignore              # Excludes large .parquet files
 ```
 
+![alt text](image.png)
