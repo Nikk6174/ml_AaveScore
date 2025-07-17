@@ -115,45 +115,58 @@
 
 
 
-OVERALL SCORE STATISTICS:
-Total Wallets Analyzed: 3,497
-Mean Score: 554.24
-Median Score: 553.14
-Standard Deviation: 70.52
-Min Score: 324.89
-Max Score: 652.97
+### 📊 Overall Score Statistics
+
+| Metric                  | Value    |
+|-------------------------|----------|
+| Total Wallets Analyzed | 3,497    |
+| Mean Score             | 554.24   |
+| Median Score           | 553.14   |
+| Standard Deviation     | 70.52    |
+| Minimum Score          | 324.89   |
+| Maximum Score          | 652.97   |
 
 
 
- SCORE RANGE DISTRIBUTION:
-    0-100:      0 wallets (  0.0%)
-  100-200:      0 wallets (  0.0%)
-  200-300:      0 wallets (  0.0%)
-  300-400:     61 wallets (  1.7%)
-  400-500:    745 wallets ( 21.3%)
-  500-600:  1,415 wallets ( 40.5%)
-  600-700:  1,276 wallets ( 36.5%)
-  700-800:      0 wallets (  0.0%)
-  800-900:      0 wallets (  0.0%)
-  900-1000:      0 wallets (  0.0%)
+
+ ### 📈 Score Range Distribution
+
+| Score Range   | Wallet Count | Percentage |
+|---------------|--------------|------------|
+| 0–100         | 0            | 0.0%       |
+| 100–200       | 0            | 0.0%       |
+| 200–300       | 0            | 0.0%       |
+| 300–400       | 61           | 1.7%       |
+| 400–500       | 745          | 21.3%      |
+| 500–600       | 1,415        | 40.5%      |
+| 600–700       | 1,276        | 36.5%      |
+| 700–800       | 0            | 0.0%       |
+| 800–900       | 0            | 0.0%       |
+| 900–1000      | 0            | 0.0%       |
+
 ![alt text](images/image-3.png)
 
 
 
 
 
-  QUALITY CATEGORY DISTRIBUTION:
-  Excellent (800-1000):      0 wallets (  0.0%)
-  Good (600-799):  1,276 wallets ( 36.5%)
-  Average (400-599):  2,160 wallets ( 61.8%)
-  Below Average (200-399):     61 wallets (  1.7%)
-  Poor (0-199):      0 wallets (  0.0%)
+
+ ### 🏅 Quality Category Distribution
+
+| Category           | Wallet Count | Percentage |
+|--------------------|--------------|------------|
+| Excellent (800–1000)  | 0            | 0.0%       |
+| Good (600–799)        | 1,276        | 36.5%      |
+| Average (400–599)     | 2,160        | 61.8%      |
+| Below Average (200–399)| 61          | 1.7%       |
+| Poor (0–199)          | 0            | 0.0%       |
+
 ![alt text](images/image-4.png)
 
 
 
 
-component score correlation
+### Component Score Correlation
 
 ![alt text](images/image-5.png)
 
