@@ -1,6 +1,4 @@
 
-
-
 ### 📊 Score Range Distribution
 
 | Score Range | Wallet Count | Percentage |
@@ -20,9 +18,7 @@
 ![alt text](images/image.png)
 
 
-
-
-
+---
 
 
 ### 🔍 Wallet Characteristics by Score Range
@@ -33,8 +29,7 @@
 | 0–199 (Low)       | No wallets found in this range      |
 
 
-
-
+---
 
 
 ### 📈 Behavioral Metrics by Score Range
@@ -103,16 +98,7 @@
 ![alt text](images/image-1.png)
 
 
-
-
-
-
-
-
-
-
-
-
+---
 
 
 ### 📊 Overall Score Statistics
@@ -127,6 +113,7 @@
 | Maximum Score          | 652.97   |
 
 
+---
 
 
  ### 📈 Score Range Distribution
@@ -147,8 +134,7 @@
 ![alt text](images/image-3.png)
 
 
-
-
+---
 
 
  ### 🏅 Quality Category Distribution
