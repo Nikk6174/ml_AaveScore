@@ -13,7 +13,7 @@ SCORE RANGE DISTRIBUTION:
   800-900:      0 wallets (  0.0%)
   900-1000:      0 wallets (  0.0%)
 
-![alt text](image.png)
+![alt text](images/image.png)
 
 
 
@@ -103,7 +103,7 @@ Average (400-599)     3.17     3.0  2.05
 Good (600-799)        1.20     1.0  0.80
 Excellent (800-1000)   NaN     NaN   NaN
 
-![alt text](image-1.png)
+![alt text](images/image-1.png)
 
 
 
@@ -132,7 +132,7 @@ Max Score: 652.97
   700-800:      0 wallets (  0.0%)
   800-900:      0 wallets (  0.0%)
   900-1000:      0 wallets (  0.0%)
-![alt text](image-3.png)
+![alt text](images/image-3.png)
 
 
 
@@ -144,14 +144,14 @@ Max Score: 652.97
   Average (400-599):  2,160 wallets ( 61.8%)
   Below Average (200-399):     61 wallets (  1.7%)
   Poor (0-199):      0 wallets (  0.0%)
-![alt text](image-4.png)
+![alt text](images/image-4.png)
 
 
 
 
 component score correlation
 
-![alt text](image-5.png)
+![alt text](images/image-5.png)
 
 
 
